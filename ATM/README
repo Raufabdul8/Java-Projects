@@ -1,0 +1,9 @@
+ATM
+
+ATM (Automated Teller Machine) is a beginner java project that deals with all basic java features and implements
+the functionalities of an automatic teller machine.
+
+Usage
+
+This project allows users to login to their bank account using customer number and pin number. User can view balance,
+withdraw and deposit funds.
